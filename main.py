@@ -36,6 +36,6 @@ def longest_run_recursive(mylist, key):
 
 ## Feel free to add your own tests here.
 def test_longest_run():
-    assert longest_run([2,12,12,8,12,12,12,0,12,1], 12) == 3
+   assert longest_run([2,12,12,8,12,12,12,0,12,1], 12) == 3
 
 
